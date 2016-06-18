@@ -3,10 +3,10 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
+url: http://platkh.github.io
 baseurl: /jekyll-tch-theme
-title: Your name
-description: Some descriptions of yourself.
+title: So Close
+description: Memberi untuk menerima
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
 favicon: /assets/img/ogp.png
@@ -19,9 +19,9 @@ language: en
 icons:
   rss: true
   email:
-  github: ttskch
+  github: platkh
   bitbucket:
-  twitter: ttskch
+  twitter: platkh
   facebook:
   google_plus:
   tumblr:
